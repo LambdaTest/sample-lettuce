@@ -1,8 +1,8 @@
 [
   {
-    "platform" : "Windows 10",
+    "operatingSystem" : "Windows 10",
 	"browserName" : "chrome",
-	"version" : "latest",
+	"browserVersion" : "latest",
 	"name": "lettuce test "
 
   }
